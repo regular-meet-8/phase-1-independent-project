@@ -1,0 +1,19 @@
+{
+  "name": "phase-1-independent-project",
+  "version": "1.0.0",
+  "description": "WEATHER APP",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regular-meet-8/phase-1-independent-project.git"
+  },
+  "author": "Edson Kimotho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/regular-meet-8/phase-1-independent-project/issues"
+  },
+  "homepage": "https://github.com/regular-meet-8/phase-1-independent-project#readme"
+}
